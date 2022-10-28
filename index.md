@@ -18,7 +18,7 @@ I received my bachelor’s and master’s degrees from Beihang University, in
 South Wales, Canberra Campus, in 2019, all in remote sensing.
 
 After one and a half years of industry experience, I joined the
-Commonwealth Scientific and Industrial Research Organisation (CSIRO) as a  
+Commonwealth Scientific and Industrial Research Organisation (CSIRO) as a 
 CSIRO Early Research Career (CERC) Postdoctoral Research Fellow. My postdoctoral 
 research is jointly supported by the Machine Learning and Artificial 
 Intelligence Future Science Platform and the Space Technology Future Science 
