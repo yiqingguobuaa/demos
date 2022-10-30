@@ -1,8 +1,8 @@
 - name: Home
   link: /midnight/
 - name: Experience
-  link: /experience.html
+  link: /midnight/experience.html
 - name: Publications
-  link: /publications.html
+  link: /midnight/publications.html
 - name: Organisation
-  link: /organisation.html
+  link: /midnight/organisation.html
