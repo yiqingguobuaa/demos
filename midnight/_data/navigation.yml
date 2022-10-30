@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Experience
+  link: /experience.html
+- name: Publications
+  link: /publications.html
+- name: Organisation
+  link: /organisation.html
