@@ -1,8 +1,8 @@
 - name: Home
-  link: /
+  link: /hacker/
 - name: Experience
-  link: /experience.html
+  link: /hacker/experience.html
 - name: Publications
-  link: /publications.html
+  link: /hacker/publications.html
 - name: Organisation
-  link: /organisation.html
+  link: /hacker/organisation.html
