@@ -22,7 +22,7 @@ Research Topic: Early detection of crop growth stress with remote sensing
 
 Supervisor: A/Prof. Feng Zhao
 
-Awards: Excellent Thesis | Excellent Graduate | National Scholarship
+Awards: Excellent Thesis / Excellent Graduate / National Scholarship
 
 ### 2008.09 — 2012.07: Bachelor of Engineering (Remote Sensing)
 
@@ -32,4 +32,4 @@ GPA: 3.6
 
 Ranking: 3/26
 
-Award: Excellent Graduate | National Scholarship
+Award: Excellent Graduate / National Scholarship
