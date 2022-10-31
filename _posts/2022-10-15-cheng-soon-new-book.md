@@ -4,5 +4,5 @@ title: "A Good Book for Machine Learning Researchers"
 ---
 
 If you are interested in machine learning research, I would like to strongly recommend this new book
-authored by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong:
-[https://github.com/mml-book/mml-book.github.io/](Mathematics For Machine Learning)
+authored by Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong, named
+[https://github.com/mml-book/mml-book.github.io/](Mathematics For Machine Learning).
