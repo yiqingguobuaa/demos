@@ -13,8 +13,8 @@ Sensing.
 South Wales Canberra Student Chapter, Australia [Column Article]. IEEE Geoscience and Remote Sensing
 Magazine, 8(3), 102-103.
 
-[12] Y. Guo, X. Jia, D. Paull, and J. A. Benediktsson (2019). Nomination-favoured opinion pool for optical-
-SAR-synergistic rice mapping in face of weakened flooding signals. ISPRS Journal of Photogrammetry and
+[12] Y. Guo, X. Jia, D. Paull, and J. A. Benediktsson (2019). Nomination-favoured opinion pool for 
+optical-SAR-synergistic rice mapping in face of weakened flooding signals. ISPRS Journal of Photogrammetry and
 Remote Sensing, 155, 187–205.
 
 [11] F. Zhao, R. Li, W. Verhoef, S. Cogliati, X. Liu, Y. Huang, Y. Guo, and J. Huang (2018). Reconstruction of
